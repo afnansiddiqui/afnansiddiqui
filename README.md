@@ -154,7 +154,7 @@ At Clawkers, we deliver: AI Agents, LLM-powered assistants, multi-agent systems,
   <a href="https://www.upwork.com/freelancers/~0121fd6fda26a3a0c8" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
   </a>
-  <a href="https://github.com/afnansiddiqui__" target="_blank">
+  <a href="https://github.com/afnansiddiqui" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
